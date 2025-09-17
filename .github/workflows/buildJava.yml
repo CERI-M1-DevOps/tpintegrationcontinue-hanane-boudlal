@@ -1,6 +1,6 @@
 name: Java CI with Maven - Test and package 
 on:
-  pull_request:
+  pull-request:
     branches:
       - main
 jobs:
